@@ -1,0 +1,11 @@
+# Referenced from http://psitsmike.com/2011/09/node-js-and-socket-io-chat-tutorial/
+
+# Use node.js, express, socket.io
+# It Working to 117.17.158.173, By My ServerCom
+# if using anothere computer, modify 
+#
+# var socket = io.connect('http://117.17.158.173:8585'); (index.html : 4)
+# ==> var socket = io.connect('[YOUR_SERVERCOM OR LOCALHOST]:8585');
+#
+
+# By ggomagundan(http://www.ggogun.kr)
